@@ -1,4 +1,4 @@
-import JsonRequest from "../JsonRequest.js";
+import JsonRequest from "./JsonRequest.js";
 import fetch from 'node-fetch';
 import cheerio from 'cheerio';
 
